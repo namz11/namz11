@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🎓 I’m a Software Engineer & graduate student pursuing Master's in Computer Science at Stevens Institute of Technology.
 - 👨‍💻 I am passionate about web dev, product management, system design, automation & UI/UX.
 - 💬 Ask me about anything related to web dev, tech, finance, sports
-- 🔭 I’m currently working on [LinkedIn Banner](https://github.com/namz11/linkedin-banner)
+- 🔭 I’m currently working on [Review Room](https://github.com/namz11/review-room)
 - 🌱 I’m currently learning Cloud engineering & DevOps
 - 👯 I’m looking to collaborate on web3 projects
 - 📫 How to reach me: Email me - [narmitmashruwala@gmail.com](mailto:narmitmashruwala@gmail.com?subject=[Github]...)
