@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 
-- 🎓 I’m a Software Engineer & graduate student pursuing Master's in Computer Science at Stevens Institute of Technology.
-- 👨‍💻 I am passionate about web dev, product management, system design, automation & UI/UX.
+- 🎓 I do infra stuff at [Wasabi](https://wasabi.com/).
+- 👨‍💻 I am passionate about automation, DevOps, web dev, product management, system design & UI/UX.
 - 💬 Ask me about anything related to web dev, tech, finance, sports
 - 🔭 I’m currently working on [Review Room](https://github.com/namz11/review-room)
 - 🌱 I’m currently learning Cloud engineering & DevOps
@@ -27,11 +27,8 @@ Here are some ideas to get you started:
 
 ###
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=namz11&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Narmit's github stats" /></a>
-<br />
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namz11&layout=compact&hide_border=true&count_private=true" /></a>
-<br />
-<br />
+![Narmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=namz11&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namz11&layout=compact)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=namz11.namz11)
